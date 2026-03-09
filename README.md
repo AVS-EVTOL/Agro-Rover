@@ -156,3 +156,10 @@ Developed by a student team passionate about:
 # ⭐ Support
 
 If you like this project, consider **starring the repository**!
+
+# Pictures : 
+<img width="2048" height="995" alt="image" src="https://github.com/user-attachments/assets/67e119fc-b359-461e-8ad7-c9e6842de92c" />
+<img width="1280" height="2633" alt="image" src="https://github.com/user-attachments/assets/43c1945a-51f2-43a6-ba23-a9a5b8b244ac" />
+<img width="2048" height="995" alt="image" src="https://github.com/user-attachments/assets/d92df08f-42b8-418f-be30-3d622d9925f5" />
+
+
